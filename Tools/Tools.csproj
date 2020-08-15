@@ -88,5 +88,13 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon\mainicon1.png" />
+    <Content Include="icon\mainicon2.png" />
+    <Content Include="icon\mainicon3.png" />
+    <Content Include="icon\mainicon4.png" />
+    <Content Include="icon\mainicon5.png" />
+    <Content Include="icon\mainicon6.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
